@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://www.digitalenterprisegroup.com/sitemap.xml
