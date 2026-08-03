@@ -1,0 +1,6 @@
+{
+  "name": "Digital Enterprise Group",
+  "description": "Digital Enterprise Group builds CRM systems, business workflow automations, web app integrations, and digital systems that help growing businesses streamline operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
