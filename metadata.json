@@ -1,0 +1,8 @@
+{
+  "name": "Digital Enterprise Group",
+  "description": "CRM setup, CRM automations, system workflows, systems integration, business process automation, and business automation services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
